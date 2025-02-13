@@ -54,9 +54,9 @@ According to the Splunk SOAR installation process on the official website, I had
 
 ![24](24.png)
 
-![25](25.tiff)
+![25](25.png)
 
-![26](26.tiff)
+![26](26.png)
 
 ![27](27.png)
 
