@@ -55,9 +55,9 @@ Screenshots provided below.
 
 ![24](24.png)
 
-![25](25.png)
+![25](25.tiff)
 
-![26](26.png)
+![26](26.tiff)
 
 ![27](27.png)
 
