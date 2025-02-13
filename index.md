@@ -51,7 +51,6 @@ According to the Splunk SOAR installation process on the official website, I had
 *  Set the laptop language and keyboard setup to “US”
 *  Check if it’s fips compliant - My laptop was not but making it fips compliant froze the OS and was not necessary to install SOAR
 *  Lastly, update the OS
-Screenshots provided below.
 
 ![24](24.png)
 
