@@ -87,7 +87,7 @@ Then I installed Splunk SOAR with the following command:
 ```
 sudo ./splunk-install --splunk-soar-home /opt/phantom --https-port 7777
 ```
-In the middle of the installation, a warning popped up about insufficient space because the majority of the space was mounted on the home directory as oppose to the root directory. I persisted with the installation and will fix the issue later on in the process.
+In the middle of the installation, a warning popped up about insufficient space because the majority of the space was mounted on the home directory as oppose to the root directory. I persisted with the installation and will fix the issue afer the installation.
 
 ![34](34.png)
 
